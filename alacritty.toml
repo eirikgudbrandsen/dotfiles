@@ -1,0 +1,19 @@
+# Alacritty configuration file
+
+[window]
+    dimensions = { columns = 120, lines = 40 }
+    title = ""
+    decorations = "None"
+    padding = { x = 10, y = 5 }
+    
+
+# startup_mode = "Fullscreen"
+
+[font]
+    normal = { family = "Consolas", style = "Regular" }
+    size = 14.0
+    offset = { x = 0, y = 2}
+
+[colors]
+    primary = { background = '0x212121', foreground = '0xc5c8c6' }
+
